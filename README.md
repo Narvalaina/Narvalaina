@@ -1,14 +1,14 @@
 # Fernando Tomás Gámez Cartagena
 
-Telecommunications Engineer focused on communications systems, networking/SDN, time-series forecasting, signal processing, and systems engineering.
+Telecommunications Engineer focused on communications systems, satellite communications, RF/microwave, networking/SDN, signal processing, and systems engineering.
 
-I build and validate reproducible engineering systems and data-driven models, with particular interest in communications architectures, network control, integration, verification, and technical evidence.
+My technical work combines reproducible communications and networking systems with data-driven modelling for traffic analysis and prediction.
 
 ## Engineering focus
 
 - Communications systems and satellite communications
+- RF/microwave and digital communications
 - IP networking, SDN/OpenFlow, Mininet, Open vSwitch and OpenDaylight
-- Time-series forecasting and machine learning for network traffic
 - Signal processing and data-driven traffic analysis
 - Systems engineering, integration, verification and validation
 
@@ -34,4 +34,4 @@ The project covers incremental validation from basic topologies to Leaf-Spine an
 
 ## Current direction
 
-Building a technical portfolio around communications systems, networking, data-driven traffic analysis, signal processing, and systems engineering, with particular interest in satellite communications and aerospace applications.
+Communications systems, satellite communications, RF/microwave, networking, signal processing, and systems engineering, with a particular focus on aerospace and NewSpace applications.
